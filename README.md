@@ -23,6 +23,9 @@ Connect with me
 Goals
 
 🔍 Actively seeking Full time(Entry Level) opportunities in Web Development
+
 🚀 Looking to collaborate on open-source projects and innovative web applications
+
 📈 Continuously learning and expanding my knowledge of the latest web technologies
+
 
