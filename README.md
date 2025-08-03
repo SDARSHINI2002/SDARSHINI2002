@@ -7,9 +7,13 @@ I’m a 22-year-old graduate with a Master of Computer Science from Vels Univers
 Skills
 
 💻 Languages: Java, Python, JavaScript, React.js, Angular, HTML, CSS
+
 🛠️ Tools & Technologies: Git, MySQL, Sql
+
 ☁️ Cloud Platforms: Azure, Amazon Web Services
+
 📚 Learning: Full Stack Web Development, Cloud Computing
+
 
 Connect with me
 
